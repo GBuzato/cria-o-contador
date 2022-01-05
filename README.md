@@ -1,2 +1,2 @@
-# cria-o-contador
+# criação-contador
 Desafio do bootcamp da DIO, aula de JavaScript.
